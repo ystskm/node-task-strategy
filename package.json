@@ -1,0 +1,31 @@
+{
+  "name": "task-strategy",
+  "version": "0.0.1",
+  "author": {
+    "name": "Yoshitaka Sakamoto",
+    "url": "http://github.com/ystskm",
+    "email": "sakamoto@liberty-technology.biz"
+  },
+  "contributors": [],
+  "description": "Database rollback supported task strategy.",
+  "dependencies": {
+    "async": ">=0.2.9",
+    "event-drive": ">=1.1.0"
+  },
+  "devDependencies": {
+    "nodeunit": "*",
+    "nodeunit-ci": "*"
+  },
+  "keywords": ["util","grunt","queue"],
+  "main": "index.js",
+  "repository": {
+    "url": "http://github.com/ystskm/node-grunt-q",
+    "type": "git"
+  },
+  "engine": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test/_runner.js"
+  }
+}
