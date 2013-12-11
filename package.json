@@ -1,6 +1,6 @@
 {
   "name": "task-strategy",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": {
     "name": "Yoshitaka Sakamoto",
     "url": "http://github.com/ystskm",
@@ -10,7 +10,7 @@
   "description": "Database rollback supported task strategy.",
   "dependencies": {
     "async": ">=0.2.9",
-    "event-drive": ">=1.1.0"
+    "event-drive": ">=1.1.1"
   },
   "devDependencies": {
     "nodeunit": "*",
