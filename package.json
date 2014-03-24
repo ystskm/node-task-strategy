@@ -16,7 +16,7 @@
     "nodeunit": "*",
     "nodeunit-ci": "*"
   },
-  "keywords": ["util","grunt","queue"],
+  "keywords": ["util","task"],
   "main": "index.js",
   "repository": {
     "url": "http://github.com/ystskm/node-grunt-q",

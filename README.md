@@ -1,4 +1,4 @@
-#grunt-q
+#task-strategy
   
 [![Version](https://badge.fury.io/js/task-strategy.png)](https://npmjs.org/package/task-strategy)
 [![Build status](https://travis-ci.org/ystskm/node-task-strategy.png)](https://travis-ci.org/ystskm/node-task-strategy)
