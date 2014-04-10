@@ -10,7 +10,8 @@
   "description": "Database rollback supported task strategy.",
   "dependencies": {
     "async": ">=0.2.9",
-    "event-drive": ">=1.1.1"
+    "event-drive": ">=1.1.1",
+    "micro-pipe": ">=0.1.0"
   },
   "devDependencies": {
     "nodeunit": "*",
@@ -19,7 +20,7 @@
   "keywords": ["util","task"],
   "main": "index.js",
   "repository": {
-    "url": "http://github.com/ystskm/node-grunt-q",
+    "url": "http://github.com/ystskm/node-task-strategy",
     "type": "git"
   },
   "engine": {
